@@ -1,2 +1,2 @@
 my second commit
-my update
+my updates
